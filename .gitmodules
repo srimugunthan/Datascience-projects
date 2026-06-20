@@ -10,3 +10,27 @@
 [submodule "Handwritten-Digit-Recognition-on-MNIST-dataset"]
 	path = Handwritten-Digit-Recognition-on-MNIST-dataset
 	url = https://github.com/srimugunthan/Handwritten-Digit-Recognition-on-MNIST-dataset
+[submodule "WeightLiftPredict"]
+	path = WeightLiftPredict
+	url = https://github.com/srimugunthan/WeightLiftPredict
+[submodule "modelOnQOSStats"]
+	path = modelOnQOSStats
+	url = https://github.com/srimugunthan/modelOnQOSStats
+[submodule "PredictFootballMatch"]
+	path = PredictFootballMatch
+	url = https://github.com/srimugunthan/PredictFootballMatch
+[submodule "VisualisationExPractice"]
+	path = VisualisationExPractice
+	url = https://github.com/srimugunthan/VisualisationExPractice
+[submodule "Toxic-comments-multilabelPred"]
+	path = Toxic-comments-multilabelPred
+	url = https://github.com/srimugunthan/Toxic-comments-multilabelPred
+[submodule "Covid-India-districtwise-coloring"]
+	path = Covid-India-districtwise-coloring
+	url = https://github.com/srimugunthan/Covid-India-districtwise-coloring
+[submodule "kedroprojectstarters"]
+	path = kedroprojectstarters
+	url = https://github.com/srimugunthan/kedroprojectstarters
+[submodule "forecast-sales"]
+	path = forecast-sales
+	url = https://github.com/srimugunthan/forecast-sales
