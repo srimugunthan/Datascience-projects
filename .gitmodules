@@ -34,3 +34,39 @@
 [submodule "forecast-sales"]
 	path = forecast-sales
 	url = https://github.com/srimugunthan/forecast-sales
+[submodule "RL-essential-algorithms-practice"]
+	path = RL-essential-algorithms-practice
+	url = https://github.com/srimugunthan/RL-essential-algorithms-practice
+[submodule "Computer-vision-essential-projects"]
+	path = Computer-vision-essential-projects
+	url = https://github.com/srimugunthan/Computer-vision-essential-projects
+[submodule "ml-algos-from-scratch"]
+	path = ml-algos-from-scratch
+	url = https://github.com/srimugunthan/ml-algos-from-scratch
+[submodule "DS_StatisticsQuestions"]
+	path = DS_StatisticsQuestions
+	url = https://github.com/srimugunthan/DS_StatisticsQuestions
+[submodule "abtest-howto"]
+	path = abtest-howto
+	url = https://github.com/srimugunthan/abtest-howto
+[submodule "movie-recommender-12-techniques"]
+	path = movie-recommender-12-techniques
+	url = https://github.com/srimugunthan/movie-recommender-12-techniques
+[submodule "analysis-methods"]
+	path = analysis-methods
+	url = https://github.com/srimugunthan/analysis-methods
+[submodule "noisylossf_evaluation"]
+	path = noisylossf_evaluation
+	url = https://github.com/srimugunthan/noisylossf_evaluation
+[submodule "bbc-text-classification"]
+	path = bbc-text-classification
+	url = https://github.com/srimugunthan/bbc-text-classification
+[submodule "spark_snippets"]
+	path = spark_snippets
+	url = https://github.com/srimugunthan/spark_snippets
+[submodule "Modelexplainability-session"]
+	path = Modelexplainability-session
+	url = https://github.com/srimugunthan/Modelexplainability-session
+[submodule "post-modelling-analysis"]
+	path = post-modelling-analysis
+	url = https://github.com/srimugunthan/post-modelling-analysis/
