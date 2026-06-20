@@ -1,0 +1,12 @@
+[submodule "kaggle-titanic-python-solution"]
+	path = kaggle-titanic-python-solution
+	url = https://github.com/srimugunthan/kaggle-titanic-python-solution
+[submodule "SoftmaxMultinomialRegression"]
+	path = SoftmaxMultinomialRegression
+	url = https://github.com/srimugunthan/SoftmaxMultinomialRegression.git
+[submodule "LogisticRegressionImple"]
+	path = LogisticRegressionImple
+	url = https://github.com/srimugunthan/LogisticRegressionImple.git
+[submodule "Handwritten-Digit-Recognition-on-MNIST-dataset"]
+	path = Handwritten-Digit-Recognition-on-MNIST-dataset
+	url = https://github.com/srimugunthan/Handwritten-Digit-Recognition-on-MNIST-dataset
